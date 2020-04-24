@@ -12,8 +12,14 @@
   color: #2c3e50;
 }
 
+html,body{
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
 #nav {
-  padding: 30px;
 
   a {
     font-weight: bold;
